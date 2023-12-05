@@ -1,0 +1,26 @@
+@import './../fonts/Gilroy/stylesheets.css';
+
+// Base
+@import './base/reset';
+@import './base/vars';
+@import './base/base';
+
+//bocks
+@import './bocks/header';
+@import './bocks/nav';
+@import './bocks/nav-list';
+@import './bocks/sub-nav';
+@import './bocks/mobile-nav';
+@import './bocks/cart';
+@import './bocks/search-form';
+@import './bocks/info-dot';
+@import './bocks/info-hint';
+@import './bocks/benefits';
+@import './bocks/benefit';
+@import './bocks/products';
+@import './bocks/read-more';
+@import './bocks/tab-controls';
+@import './bocks/card';
+@import './bocks/slider';
+@import './bocks/footer';
+@import './bocks/logo';
